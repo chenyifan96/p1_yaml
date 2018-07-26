@@ -8,7 +8,7 @@
 %%%-------------------------------------------------------------------
 {application, p1_yaml,
  [{description,  "libyaml wrapper"},
-  {vsn,          "1.0.0.1"},
+  {vsn,          "1.0.0.2"},
   {modules,      []},
   {registered,   []},
   {applications, [kernel, stdlib]},
